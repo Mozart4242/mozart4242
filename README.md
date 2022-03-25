@@ -33,7 +33,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 
 ## Core Competencies and Skills
-DevOps Skills:
+**DevOps Skills:**
 
 ✔️ Bash - Python
 
