@@ -4,7 +4,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 
 <h1 align="center">Hi 👋, I'm Morteza</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A passionate DevSecOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozart4242&label=Profile%20views&color=0e75b6&style=flat" alt="mozart4242" /> </p>
 
