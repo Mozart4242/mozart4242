@@ -12,7 +12,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 - 🌱 I’m currently learning **DevOps, SRE**
 
-- 💬 Ask me about **DevOps, Security and Network**
+- 💬 Ask me about **DevOps and Security**
 
 - 📫 How to reach me **sir.morteza@hotmail.co.uk**
 
