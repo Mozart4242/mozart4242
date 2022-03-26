@@ -54,3 +54,14 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 ### Cloud Skills:
 <img alt="HashiCorp Packer logo" src="https://camo.githubusercontent.com/1a86701ddcb7b057bb84faf38347c8dae55ff6117ecf3cd695c421edbe9d26c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d616d617a6f6e266c6f676f436f6c6f723d79656c6c6f"/>
 <img alt="HashiCorp Packer logo" src="https://camo.githubusercontent.com/0256f574476e74a2e20588dec212ee40fb9d7158e15f70fb6803e47d9f1dbbcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4743472d3030303f266c6f676f3d676f6f676c65266c6f676f436f6c6f723d453334463236"/>
+
+### Cybersecurity Skills
+✔️ Threat Hunting
+
+✔️ Incident Response Operations
+
+✔️ SIEM Operations
+
+✔️ SOAR Operrations
+
+✔️ Highly secure application deployment
