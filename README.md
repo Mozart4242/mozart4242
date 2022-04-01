@@ -35,42 +35,42 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 ## Core Competencies and Skills
 ### DevOps Skills:
 
-✔️ Bash - Python
+🔖 Bash - Python
 
-✔️ Ansible
+🔖 Ansible
 
-✔️ Terraform
+🔖 Terraform
  
-✔️ Docker - DockerCompose
+🔖 Docker - DockerCompose
     
-✔️ Kubernetes
+🔖 Kubernetes
 
-✔️ Helm Package manager
+🔖 Helm Package manager
    
-✔️ Jenkins - Gitlab CI/CD - GitHub action
+🔖 Jenkins - Gitlab CI/CD - GitHub action
 
-✔️ Grafana - Prometheus - ELK - Zabbix - Solarwinds - PRTG
+🔖 Grafana - Prometheus - ELK - Zabbix - Solarwinds - PRTG
 
 ### Cloud Skills:
-✔️ AWS
+🔖 AWS
 
-✔️ GCP
+🔖 GCP
 
 ### Network skills:
 
-✔️ Cisco
+🔖 Cisco
 
-✔️ Paloalto
+🔖 Paloalto
 
-✔️ Fortinet
+🔖 Fortinet
 
 ### Security Skills:
-✔️ Threat Hunting
+🔖 Threat Hunting
 
-✔️ Incident Response Operations
+🔖 Incident Response Operations
 
-✔️ SIEM Operations (Elastic, Splunk, IBM Qrader)
+🔖 SIEM Operations (Elastic, Splunk, IBM Qrader)
 
-✔️ SOAR Operrations
+🔖 SOAR Operrations
 
-✔️ MITRE ATT&CK
+🔖 MITRE ATT&CK
