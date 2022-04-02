@@ -74,3 +74,30 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 🔖 SOAR Operrations
 
 🔖 MITRE ATT&CK
+
+## My Certifications
+📄 [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/JW3UVQNTF76W)
+
+📄 [DevOps On AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/HW49YJQAPNU4)
+
+📄 [Google Cloud Security Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/L9P5TVNEV4MN)
+
+📄 [Linux Server Management and Security](https://www.coursera.org/account/accomplishments/certificate/FU6U87F2WNTB)
+
+📄 [Cybersecurity Risk Managemnet Framework](https://www.coursera.org/account/accomplishments/specialization/certificate/CACHJPCA7G4V)
+
+📄 [Paloalto Networks Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/9FF9CER8EBC6)
+
+📄 [Computer Forensics](https://www.coursera.org/account/accomplishments/specialization/certificate/7PL7UC3G4KP2)
+
+📄 [Cyber Incident Response](https://www.coursera.org/account/accomplishments/specialization/certificate/CW523V48KHUZ)
+
+📄 [Cybersecurity Leadership and Management](https://www.coursera.org/account/accomplishments/specialization/certificate/XA9S39QHDT6M)
+
+📄 [IBM Cyber Threat Intelligence](https://www.credly.com/badges/3ed1cac0-532d-49b5-a1ab-613407837076?source=linked_in_profile)
+
+📄 [Introduction To Cybersecuirty](https://www.coursera.org/account/accomplishments/specialization/certificate/ZS46UHY2393K)
+
+📄 Certified Ethical Hacker
+
+📄 Cisco CCNA R&S
