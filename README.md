@@ -101,3 +101,6 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 📄 Certified Ethical Hacker
 
 📄 Cisco CCNA R&S
+
+📄 Cisco CCNP R&S
+
