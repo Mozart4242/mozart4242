@@ -56,7 +56,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 🔖 GCP
 
-### Network skills:
+### Network and Security skills:
 
 🔖 Cisco
 
@@ -64,7 +64,6 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 🔖 Fortinet
 
-### Security Skills:
 🔖 Threat Hunting
 
 🔖 Incident Response Operations
