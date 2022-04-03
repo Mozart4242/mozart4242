@@ -76,6 +76,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 📄 [Google Cloud Security Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/L9P5TVNEV4MN)
 
 📄 [Linux Server Management and Security](https://www.coursera.org/account/accomplishments/certificate/FU6U87F2WNTB)
+-------- -------- -------- --------
 
 📄 [Cybersecurity Risk Managemnet Framework](https://www.coursera.org/account/accomplishments/specialization/certificate/CACHJPCA7G4V)
 
