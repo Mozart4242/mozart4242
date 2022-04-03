@@ -58,11 +58,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 ### Network and Security skills:
 
-🔖 Cisco
-
-🔖 Paloalto
-
-🔖 Fortinet
+🔖 Cisco, Paloalto, Fortinet
 
 🔖 Threat Hunting
 
@@ -71,8 +67,6 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 🔖 SIEM Operations (Elastic, Splunk, IBM Qrader)
 
 🔖 SOAR Operrations
-
-🔖 MITRE ATT&CK
 
 ## My Certifications
 📄 [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/JW3UVQNTF76W)
@@ -99,7 +93,4 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 📄 Certified Ethical Hacker
 
-📄 Cisco CCNA R&S
-
-📄 Cisco CCNP R&S
-
+📄 Cisco CCNA-CCNP R&S
