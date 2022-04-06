@@ -41,7 +41,7 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 
 🔖 Terraform
  
-🔖 Docker - DockerCompose
+🔖 Docker
     
 🔖 Kubernetes
 
@@ -59,8 +59,6 @@ Once upon a time, I was a network security engineer but at some point, DevOps ch
 ### Network and Security skills:
 
 🔖 Cisco, Paloalto, Fortinet
-
-🔖 Threat Hunting
 
 🔖 Incident Response Operations
 
