@@ -54,11 +54,12 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 ### Network and Security skills:
 🔖 Cisco, Paloalto, Fortinet
 
+🔖 WMware
+
 🔖 Incident Response Operations
 
 🔖 SIEM Operations (Elastic, Splunk, IBM Qrader)
 
-🔖 SOAR Operrations
 
 ## My Certifications
 📄 [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/JW3UVQNTF76W)
