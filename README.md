@@ -1,6 +1,6 @@
 # About me
 
-Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. Im bringing it all into one to make myself a full ITOps engineer.
+Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full ITOps engineer.
 
 
 <h1 align="center">Hi 👋, I'm Morteza</h1>
@@ -32,6 +32,8 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 
 🔖 Ansible
 
+🔖 Pulumi
+
 🔖 Terraform
  
 🔖 Docker
@@ -50,7 +52,6 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 🔖 GCP
 
 ### Network and Security skills:
-
 🔖 Cisco, Paloalto, Fortinet
 
 🔖 Incident Response Operations
