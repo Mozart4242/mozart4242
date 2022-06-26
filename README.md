@@ -1,6 +1,6 @@
 # About me
 
-Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full IT-Dev-SecOps engineer.
+Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full Dev-SecOps engineer.
 
 
 <h1 align="center">Hi 👋, I'm Morteza</h1>
@@ -42,9 +42,9 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 
 🔖 Helm Package manager
    
-🔖 Jenkins - Gitlab CI/CD - GitHub action
+🔖 Jenkins - Gitlab CI/CD - GitHub action - ArgoCD
 
-🔖 Grafana - Prometheus - ELK - Zabbix - Solarwinds - PRTG
+🔖 Grafana - Prometheus - ELK - EFK - Zabbix - Solarwinds
 
 ### Cloud Skills:
 🔖 AWS
