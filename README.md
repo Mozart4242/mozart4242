@@ -1,6 +1,6 @@
 # About me
 
-Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full Dev-SecOps engineer.
+Once upon a time, I was a Network Security engineer but at some point, DevOps changed my career life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full Dev-Ops engineer.
 
 
 <h1 align="center">Hi 👋, I'm Morteza</h1>
