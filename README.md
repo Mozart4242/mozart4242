@@ -19,7 +19,6 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mozart4242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mozart4242" height="30" width="40" /></a>
-<a href="https://instagram.com/mozart4242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozart4242" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozart4242&show_icons=true&locale=en" alt="mozart4242" /></p>
