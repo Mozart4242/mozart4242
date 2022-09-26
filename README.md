@@ -12,7 +12,7 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 
 - 🌱 I’m currently learning **DevOps, SRE**
 
-- 💬 Ask me about **DevOps and Security**
+- 💬 Ask me about **DevOps, Networks and Security**
 
 - 📫 How to reach me **sir.morteza@hotmail.co.uk**
 
@@ -27,38 +27,24 @@ Once upon a time, I was a Network Security engineer but at some point, DevOps ch
 ## Core Competencies and Skills
 ### DevOps Skills:
 
-🔖 Bash - Python
-
-🔖 Ansible
-
+🔖 Bash - Python 
+🔖 Ansible 
 🔖 Pulumi
-
 🔖 Terraform
- 
 🔖 Docker
-    
 🔖 Kubernetes
-
-🔖 Helm Package manager
-   
-🔖 Jenkins - Gitlab CI/CD - GitHub action - ArgoCD
-
-🔖 Grafana - Prometheus - ELK - EFK - Zabbix - Solarwinds
-
+🔖 Jenkins - Jenkins X - Gitlab CI/CD - GitHub action - ArgoCD
+🔖 Grafana - Prometheus - ELK - EFK - Zabbix
 ### Cloud Skills:
-🔖 AWS
+☁️ AWS
 
-🔖 GCP
+☁️ GCP
 
 ### Network and Security skills:
 🔖 Cisco, Paloalto, Fortinet
-
 🔖 WMware
-
 🔖 Incident Response Operations
-
 🔖 SIEM Operations (Elastic, Splunk, IBM Qrader)
-
 
 ## My Certifications
 📄 [AWS Fundamentals](https://www.coursera.org/account/accomplishments/specialization/certificate/JW3UVQNTF76W)
