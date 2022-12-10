@@ -3,7 +3,6 @@
 Once upon a time, I was a Network Security engineer but at some point, DevOps changed my professional life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full Dev-Ops engineer.
 
 
-<h1 align="center">Hi 👋, I'm Morteza</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozart4242&label=Profile%20views&color=0e75b6&style=flat" alt="mozart4242" /> </p>
