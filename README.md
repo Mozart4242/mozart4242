@@ -1,6 +1,6 @@
 # About me
 
-Once upon a time, I was a Network Security engineer but at some point, DevOps changed my professional life. Now I am working and studying in the DevOps field and I am honored with this decision. I'm bringing it all into one to make myself a full DevOps engineer.
+Started as a network engineer, grew into cybersecurity, and now bridging it all with DevOps — building secure, scalable, and resilient systems.
 
 
 <h3 align="center">A passionate DevOps Engineer</h3>
